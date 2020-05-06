@@ -1,6 +1,6 @@
 # People-counting-system
-![Alt Text](https://github.com/IdoGalil/People-counting-system/blob/master/Central%20Library%20entrance.gif)
-![Alt Text](https://github.com/IdoGalil/People-counting-system/blob/master/Medical%20Library%20Entrance.gif)
+![Alt Text](https://github.com/IdoGalil/People-counting-system/blob/master/Central%20Library%20entrance.gif)![Alt Text](https://github.com/IdoGalil/People-counting-system/blob/master/Medical%20Library%20Entrance.gif)
+
 Short demo of the system with some of its features turned on:
 https://www.youtube.com/watch?v=XJ_s2oy9_hc&t=4s
 
