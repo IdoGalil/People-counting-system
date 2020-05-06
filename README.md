@@ -5,7 +5,7 @@
 Short demo of the system with some of its features turned on:
 https://www.youtube.com/watch?v=XJ_s2oy9_hc&t=4s
 
-System to count the people entering and leaving an entrance, using a DNN as a detector (YOLOv3) and a tracking algorithm to count and track (CSRT). It was made by myself and Or Farfara as a final project on our B.Sc in Computer's Science at the Technion, and intended for use by the Technion's libraries (though it could be optimized for any entrance).
+The system counts the people entering and leaving an entrance, using a Deep Neural Network as a detector (YOLOv3) and a tracking algorithm to count and track (DCF-CSR \ CSRT). It was developed by myself and Or Farfara as a final project on our B.Sc in Computer's Science at the Technion, and intended for use by the Technion's libraries (though it could be optimized for any entrance).
 
 For quick use, download YOLOv3-416's h5 file from here:
 https://pjreddie.com/darknet/yolo/
