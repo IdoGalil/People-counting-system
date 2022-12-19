@@ -10,7 +10,7 @@ Short demo of the system with some of its features turned on:
 https://www.youtube.com/watch?v=XJ_s2oy9_hc&t=4s
 
 ## Requirements
-- Python 3
+- Python 3.6.10
 - GPU and CUDA 9.0 installed
 
 ## Setup
